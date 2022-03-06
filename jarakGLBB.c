@@ -1,3 +1,4 @@
+/*Nama      : Muhammad Akmal Iskandar*/
 /*Nama File : jarakGLBB.c*/
 /*Deskripsi : Menghitung dan menampilkan jarak yang ditempuh benda yang mengalami GLBB*/
 
