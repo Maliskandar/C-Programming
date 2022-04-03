@@ -1,5 +1,5 @@
 // Nama            : Muhammad Akmal Iskandar
-// Nama File       : TunjAnak
+// Nama File       : 16.TunjAnak
 // Deskripsi 	   : Menentukan besar tunjangan anak yang diberikan, lalu tampilkan besar tunjangan anak tersebut.
 
 # include<stdio.h>
