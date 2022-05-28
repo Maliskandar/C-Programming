@@ -1,6 +1,6 @@
 // Nama         : Muhammad Akmal Iskandar
 // NIM          : 24060121140094
-// Tanggal      : 16 Maret 2022
+// Tanggal      : 28 Maret 2022
 // Nama Program : HargaDiskon.c
 /* Deskripsi    : menampilkan harga diskon dari barang yang terdiri dari jenis A, B, dan C. Barang jenis A dikenakan diskon 10% , Barang jenis B dikenakan diskon 15% dan Barang jenis C dikenakan  diskon 20%*/
 
